@@ -1,0 +1,4 @@
+- Frontend deployed URL: https://new-test-app.netlify.app
+- Backend deployed URL:
+  - Users: https://test-api-m06e.onrender.com/users
+  - Products: https://test-api-m06e.onrender.com/products/allProducts

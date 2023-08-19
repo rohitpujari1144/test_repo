@@ -13,7 +13,7 @@ async function hashCompare(password, hashedPassword) {
 }
 
 function createToken(payload) {
-    let token = jwt.sign(payload, secretKey, { expiresIn: '1m' })
+    let token = jwt.sign(payload, secretKey, { expiresIn: '5m' })
     return token
 }
 
